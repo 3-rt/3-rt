@@ -1,6 +1,5 @@
-# Hi 👋, I'm Basil Liu
+# Hi there 👋, I'm Basil (he/him)
 
-# 🎓 About Me
 I'm a sophomore studying Computer Science and Chemistry at the University of Illinois Urbana-Champaign<br><br>🌟 I'm currently working on a RESTful API<br>🔍 My interests include AI/ML, Mathematics, and Finance<br>🧩 I love to work on challenging problems involving programming, mathematics, and creative thinking<br>
 
 # 💻 Tech Stack
