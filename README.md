@@ -2,8 +2,6 @@
 
 I'm a junior studying **Computer Science and Chemistry** at the **University of Illinois Urbana-Champaign**, focused on building **AI-powered tools and agents** that integrate cleanly into real systems.
 
-I work on products where AI is not a demo, but a component — structured outputs, system-level reasoning, and workflows that humans can actually use.
-
 🚀 Building AI-powered tools and agents with structured, reliable pipelines  
 🧩 Interested in end-to-end systems: from data models and APIs to UX and deployment  
 
