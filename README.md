@@ -1,1 +1,1 @@
-CS + Chemistry @ UIUC · building AI agents and the infra to run them · prev Siemens
+CS + Chemistry @ UIUC · building AI powered full stack products and systems · prev Siemens
