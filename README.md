@@ -1,1 +1,1 @@
-CS + Chemistry @ UIUC · building AI powered full stack products and systems · prev Siemens
+CS + Chemistry @ UIUC · building AI full stack products and systems · prev Siemens
