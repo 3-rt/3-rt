@@ -1,1 +1,1 @@
-CS + Chem @ UIUC · building AI full stack products and systems · prev @ Siemens
+cs + chem @uiuc · building agent systems + applied AI products · prev @bmo @siemens
